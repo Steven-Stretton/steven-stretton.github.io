@@ -3332,7 +3332,7 @@ input, select, textarea {
 		}
 
 		#intro h1, #intro h2, #intro h3, #intro h4, #intro h5, #intro h6 {
-			color: #ffffff;
+			color: #393d41;
 		}
 
 		#intro blockquote {
@@ -3395,6 +3395,7 @@ input, select, textarea {
 			font-style: italic;
 			margin-top: -0.25rem;
 			text-align: center;
+			color: #393d41;
 		}
 
 		#intro + #header {
@@ -3408,6 +3409,7 @@ input, select, textarea {
 				transform: translateY(2rem);
 				opacity: 0;
 				visibility: hidden;
+				color: #393d41;
 			}
 
 		#intro.hidden {
